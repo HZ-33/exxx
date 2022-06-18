@@ -1,7 +1,7 @@
 global.language = "id"
 global.nomerOwner ="6289605393009"
 global.nomerOwner2 = "6289605393009"
-global.runWith = "Replit"
+global.runWith = "Heroku"
 global.ownerName = "HFZ"
 global.botName = "immortal" 
 global.sessionName ="session"
@@ -14,7 +14,7 @@ global.nopref = false
 global.allpref = false
 global.prefa = "."
 global.fake = botName
-global.publik = false
+global.publik = true
 global.Console = false
 global.autorespon = false
 global.copyright = "© immortal" 
